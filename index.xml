@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Engineering Wellness @ UC Berkeley</title>
+    <link>localhost:1313/</link>
+    <description>Recent content on Engineering Wellness @ UC Berkeley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Sep 2019 19:54:11 -0700</lastBuildDate>
+    
+	<atom:link href="localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>localhost:1313/about/</link>
+      <pubDate>Sat, 14 Sep 2019 20:20:05 -0700</pubDate>
+      
+      <guid>localhost:1313/about/</guid>
+      <description>Mission   We care about the mental health of engineering students and aim at fostering a sense of community, engaging in fun stress-relieving events, and forming friendships to help people get through their time at Cal successfully. We are here to help people build talents, hone skills and support each other.  Engineering Wellness Board   Gloria Tumushabe President    Alex Mutwiri Vice President    Christopher Justin Gonzalez Secretary    Julia Hessick Social Platforms Manager    Leslie Martinez Outreach Manager    Lavanya Vijayan Treasurer     </description>
+    </item>
+    
+  </channel>
+</rss>
