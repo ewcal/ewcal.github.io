@@ -2,13 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Engineering Wellness @ UC Berkeley</title>
-    <link>localhost:1313/tags/</link>
+    <link>https://ewcal.org/tags/</link>
     <description>Recent content in Tags on Engineering Wellness @ UC Berkeley</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 15 Sep 2019 00:31:40 -0700</lastBuildDate>
     
-	<atom:link href="localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ewcal.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>dance</title>
+      <link>https://ewcal.org/tags/dance/</link>
+      <pubDate>Sun, 15 Sep 2019 00:31:40 -0700</pubDate>
+      
+      <guid>https://ewcal.org/tags/dance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fall 2018</title>
+      <link>https://ewcal.org/tags/fall-2018/</link>
+      <pubDate>Sun, 15 Sep 2019 00:31:40 -0700</pubDate>
+      
+      <guid>https://ewcal.org/tags/fall-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>resources</title>
+      <link>https://ewcal.org/tags/resources/</link>
+      <pubDate>Sat, 14 Sep 2019 20:19:56 -0700</pubDate>
+      
+      <guid>https://ewcal.org/tags/resources/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

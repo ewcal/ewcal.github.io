@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fall 2018 on Engineering Wellness @ UC Berkeley</title>
+    <link>https://ewcal.org/tags/fall-2018/</link>
+    <description>Recent content in fall 2018 on Engineering Wellness @ UC Berkeley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Sep 2019 00:31:40 -0700</lastBuildDate>
+    
+	<atom:link href="https://ewcal.org/tags/fall-2018/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dance Par-Tea</title>
+      <link>https://ewcal.org/events/fall18/dance-par-tea/</link>
+      <pubDate>Sun, 15 Sep 2019 00:31:40 -0700</pubDate>
+      
+      <guid>https://ewcal.org/events/fall18/dance-par-tea/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
